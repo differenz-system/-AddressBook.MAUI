@@ -43,13 +43,13 @@ The app does the following:
 
 ## Screenshots
 ### Android
-<img src="https://github.com/differenz-system/AddressBook.MAUI/blob/master/ScreenShots/Android/login.png" width="280"> <img src="https://github.com/differenz-system/AddressBook.MAUI/blob/master/ScreenShots/Android/list.png" width="280"> <img src="https://github.com/differenz-system/AddressBook.MAUI/blob/master/ScreenShots/Android/detail.png" width="280">  
+<img src="https://github.com/differenz-system/AddressBook.MAUI/blob/main/ScreenShots/Android/login.png" width="280"> <img src="https://github.com/differenz-system/AddressBook.MAUI/blob/main/ScreenShots/Android/list.png" width="280"> <img src="https://github.com/differenz-system/AddressBook.MAUI/blob/main/ScreenShots/Android/detail.png" width="280">  
 
 ### iOS
-<img src="https://github.com/differenz-system/AddressBook.MAUI/blob/master/ScreenShots/iOS/login.png" width="280"> <img src="https://github.com/differenz-system/AddressBook.MAUI/blob/master/ScreenShots/iOS/list.png" width="280"> <img src="https://github.com/differenz-system/AddressBook.MAUI/blob/master/ScreenShots/iOS/detail.png" width="280">
+<img src="https://github.com/differenz-system/AddressBook.MAUI/blob/main/ScreenShots/iOS/login.png" width="280"> <img src="https://github.com/differenz-system/AddressBook.MAUI/blob/main/ScreenShots/iOS/list.png" width="280"> <img src="https://github.com/differenz-system/AddressBook.MAUI/blob/main/ScreenShots/iOS/detail.png" width="280">
 
 ### Mac Catalyst
-<img src="https://github.com/differenz-system/AddressBook.MAUI/blob/master/ScreenShots/MacCatalyst/login.png" width="300"> <img src="https://github.com/differenz-system/AddressBook.MAUI/blob/master/ScreenShots/MacCatalyst/list.png" width="300"> <img src="https://github.com/differenz-system/AddressBook.MAUI/blob/master/ScreenShots/MacCatalyst/detail.png" width="300">
+<img src="https://github.com/differenz-system/AddressBook.MAUI/blob/main/ScreenShots/MacCatalyst/login.png" width="300"> <img src="https://github.com/differenz-system/AddressBook.MAUI/blob/main/ScreenShots/MacCatalyst/list.png" width="300"> <img src="https://github.com/differenz-system/AddressBook.MAUI/blob/main/ScreenShots/MacCatalyst/detail.png" width="300">
 
 ## Support
 If you've found an error in this sample, please [report an issue](https://github.com/differenz-system/AddressBook.MAUI/issues/new). You can also send your feedback and suggestions at info@differenzsystem.com
